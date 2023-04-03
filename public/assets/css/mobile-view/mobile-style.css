@@ -11,12 +11,14 @@
     .sub-menu-fh-ds ul li{margin:10px 0;}
     .sub-menu-fh-ds ul{transition:all .5s ease-in;}
     .sub-menu-fh-ds ul.showNavMenu{left:0;transition:all .5s ease-out;}
-    .yellowAbsolute{left:-310px;top:-580px;}
+    .yellowAbsolute{left:-170px;top:-520px;}
     .shareAllThings-img{padding-left:5px;}
 }
-
+@media screen and (min-width:401px) and (max-width:520px){
+    .yellowAbsolute{left:-170px;top:-550px;}
+}
 @media screen and (max-width:400px){
-    .yellowAbsolute{left:-330px;top:-630px;}
+    .yellowAbsolute{left:-170px;top:-550px;}
     .sub-menu-fh-ds{padding-left:0;padding-right:15px;}
     .download-button .shareAllThings-menubar{margin:0 15px;}
 }
