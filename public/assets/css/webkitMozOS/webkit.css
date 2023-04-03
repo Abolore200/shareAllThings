@@ -1,1 +1,4 @@
 button,input,select,option{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;}
+.registerEmail input[type="email"]{-moz-font-size:16px;font-size:16px;-webkit-font-size:16px;}
+.donation-mc-lk figure .animate-nv-gd img{-webkit-transition:all .5s;-moz-transition:all .5s;-o-transition:all .5s;transition:all .5s;}
+.donation-mc-lk figure:hover .animate-nv-gd img{-webkit-transform:scale(1.2);-ms-transform:scale(1.2);-moz-transform:scale(1.2);-o-transform:scale(1.2);transform:scale(1.2);}

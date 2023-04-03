@@ -21,7 +21,7 @@ main{width:100%;margin-bottom:200px;}
 .sub-menu-fh-ds ul li::after{content:"";width:0%;height:2px;background-color:#fff;display:block;position:relative;transition:all .5s;}
 .sub-menu-fh-ds ul li:hover::after{width:100%;}
 .download-button .download-hkd-sn button{border:none;padding:13px 25px;background-color:#FFC727;border-radius:50px;font-family:var(--inter);
-font-weight:600;}
+font-weight:600;text-align:center;}
 .download-button .download-hkd-sn button a{color:#263238;}
 .bf-hd-sm-fg{display:flex;align-items:center;width:95%;margin:50px auto 0;}
 .dg-hd-vb{width:50%;padding-left:30px;}
@@ -34,12 +34,27 @@ font-weight:600;}
 .hc-ks-ht{margin-top:15px;}
 .hc-ks-ht p{font-weight:400;font-size:20px;color:#263238;}
 .dj-nc-kf{margin-top:30px;}
-.registerEmail input[type="email"]{width:50%;padding:15px 10px;font-family:var(--poppins);border:1px solid #263238;}
+.registerEmail input[type="email"]{width:50%;padding:15px 10px;font-family:var(--poppins);border:1px solid #263238;background-color:#fff;}
 .registerEmail button[type="submit"]{padding:15px 60px;margin-top:30px;font-family:var(--inter);font-weight:600;border:2px solid #263238;
 background-color:#263238;color:#FFC727;cursor:pointer;border-radius:50px;}
 .bc-jd-img img{width:75%;}
 .bc-jd-img{text-align:center;}
-
+.nv-fj-ld{width:95%;margin:0 auto;}
+.dn-mf-kd{width:100%;margin-top:70px;background-color:rgba(255, 199, 39, 0.5);padding:30px 0;}
+.dh-mv-lg p{font-weight:600;font-size:26px;color:#263238;}
+.icon-joion-us-hd-jd{cursor:pointer;}
+.do-mc-kg{display:flex;align-items:center;margin-top:60px;}
+.donation-mc-lk{width:50%;}
+.download-app-mv-cx{width:50%;}
+.donation-mc-lk figure{background-color:#263238;padding:35px 30px;width:80%;margin:0 auto;
+border-radius:30px;box-shadow:0px 4px 11px rgba(0, 0, 0, 0.25);}
+.donation-mc-lk figure .animate-one-nv-gd img{width:100%;border-radius:30px;}
+.donation-mc-lk figure figcaption p{font-family:var(--raleway);font-weight:600;color:#fff;padding-top:15px;line-height:33px;font-size:23px;}
+.donation-mc-lk figure figcaption p span{text-decoration:underline;font-weight:800;}
+.donation-mc-lk figure figcaption button{width:100%;padding:20px 0;border:1px solid #FFC727;background-color:#FFC727;font-family:var(--poppins);font-weight:600;font-size:25px;}
+.donation-mc-lk figure figcaption button a{color:#263238;font-family:var(--poppins);font-weight:600;font-size:23px;}
+.donation-mc-lk figure figcaption button{margin-top:60px;border-radius:20px;text-align:center;}
+.donation-mc-lk figure figcaption button a{padding:20px 30px;}
 
 
 
