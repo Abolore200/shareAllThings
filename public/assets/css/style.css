@@ -8,8 +8,8 @@ body{width:100%;font-family:'Poppins', Verdana, Geneva, Tahoma, sans-serif;scrol
 html{scroll-behavior:smooth;width:100%;}
 a{text-decoration:none;color:#fff;}
 .yellowAbsolute{background-color:rgba(255,199,39,.5);height:1000px;width:100%;border-radius:50px 50px 170px 50px;
-position:fixed;transform:rotate(-40deg);top:-375px;right:0;left:-85px;bottom:0;z-index:-999;}
-main{width:100%;}
+position:absolute;transform:rotate(-40deg);top:-375px;right:0;left:-240px;bottom:0;z-index:-999;}
+main{width:100%;margin-bottom:200px;}
 .gd-jc-jd{background-color:#263238;width:100%;}
 .hf-bc-jd{width:95%;margin:0 auto;display:flex;align-items:center;justify-content:space-between;padding:10px 0;}
 .shareAllThings-img a{display:flex;}
@@ -27,11 +27,25 @@ font-weight:600;}
 .dg-hd-vb{width:50%;}
 .nc-hs-nc{width:50%;}
 .icon-joion-us-hd-jd{display:flex;align-items:center;background-color:#fff;width:fit-content;padding:14px 20px;border-radius:50px;}
-.icon-joion-us-hd-jd p{font-family:var(--raleway);font-weight:700;line-height:15px;margin-left:10px;}
-.icon-joion-us-hd-jd i{font-size:23px;}
+.icon-joion-us-hd-jd p{font-family:var(--raleway);font-weight:700;line-height:15px;margin-left:10px;color:#263238;}
+.icon-joion-us-hd-jd i{font-size:23px;color:#263238;}
+.gd-nv-if p{font-family:var(--inter);font-weight:600;font-size:50px;color:#263238;line-height:70px;}
+.gd-nv-if{margin-top:30px;}
+.hc-ks-ht{margin-top:15px;}
+.hc-ks-ht p{font-weight:400;font-size:20px;color:#263238;}
+.dj-nc-kf{margin-top:30px;}
+.registerEmail input[type="email"]{width:50%;padding:15px 10px;font-family:var(--poppins);border:1px solid #263238;}
+.registerEmail button[type="submit"]{padding:15px 60px;margin-top:30px;font-family:var(--inter);font-weight:600;border:2px solid #263238;
+background-color:#263238;color:#FFC727;cursor:pointer;border-radius:50px;}
+.bc-jd-img img{width:75%;}
+
+
+
+
 
 
 @media screen and (min-width:769px) and (max-width:900px) {
+    .yellowAbsolute{left:-240px;top:-315px;}
     .download-button{margin-left:20px;}
     .sub-menu-fh-ds ul li{margin:0 15px;}
 }
