@@ -40,7 +40,7 @@ background-color:#263238;color:#FFC727;cursor:pointer;border-radius:50px;}
 .bc-jd-img img{width:75%;}
 .bc-jd-img{text-align:center;}
 .nv-fj-ld{width:95%;margin:0 auto;}
-.dn-mf-kd{width:100%;margin-top:70px;background-color:rgba(255, 199, 39, 0.5);padding:30px 0;}
+.dn-mf-kd{width:100%;margin-top:70px;background-color:rgba(255, 199, 39, 0.5);padding:30px 0 50px;}
 .dh-mv-lg p{font-weight:600;font-size:26px;color:#263238;}
 .icon-joion-us-hd-jd{cursor:pointer;}
 .do-mc-kg{display:flex;align-items:center;margin-top:60px;}
@@ -54,8 +54,13 @@ border-radius:30px;box-shadow:0px 4px 11px rgba(0, 0, 0, 0.25);}
 .donation-mc-lk figure figcaption button{width:100%;padding:20px 0;border:1px solid #FFC727;background-color:#FFC727;font-family:var(--poppins);font-weight:600;font-size:25px;}
 .donation-mc-lk figure figcaption button a{color:#263238;font-family:var(--poppins);font-weight:600;font-size:23px;}
 .donation-mc-lk figure figcaption button{margin-top:60px;border-radius:20px;text-align:center;}
-.donation-mc-lk figure figcaption button a{padding:20px 30px;}
-
+.download-app-mv-cx figure{background-color:#263238;padding:35px 30px;width:80%;margin:0 auto;
+border-radius:30px;box-shadow:0px 4px 11px rgba(0, 0, 0, 0.25);}
+.download-app-mv-cx figure .animate-two-mc-hd img{width:100%;border-radius:30px;}
+.download-app-mv-cx figure figcaption p{font-family:var(--raleway);font-weight:600;color:#fff;padding-top:15px;line-height:33px;font-size:23px;}
+.download-app-mv-cx figure figcaption button{width:100%;padding:20px 0;border:1px solid #FFC727;background-color:#FFC727;font-family:var(--poppins);font-weight:600;font-size:25px;}
+.download-app-mv-cx figure figcaption button a{color:#263238;font-family:var(--poppins);font-weight:600;font-size:23px;}
+.download-app-mv-cx figure figcaption button{margin-top:60px;border-radius:20px;text-align:center;}
 
 
 
@@ -71,6 +76,14 @@ border-radius:30px;box-shadow:0px 4px 11px rgba(0, 0, 0, 0.25);}
     .registerEmail input[type="email"]{width:70%;}
     .icon-joion-us-hd-jd{padding:10px 14px;}
     .icon-joion-us-hd-jd p{font-size:15px;line-height:0px;}
+    .download-app-mv-cx figure figcaption button a{font-size:18px;}
+    .donation-mc-lk figure figcaption button a{font-size:18px;}
+    .donation-mc-lk figure figcaption p{font-size:18px;}
+    .download-app-mv-cx figure figcaption p{font-size:18px;}
+    .download-app-mv-cx figure figcaption button{margin-top:30px;padding:15px 0;}
+    .donation-mc-lk figure figcaption button{margin-top:30px;padding:15px 0}
+    .donation-mc-lk figure{width:90%;}
+    .download-app-mv-cx figure{width:90%;}
 }
 @media screen and (min-width:901px) {
     .download-button{margin-left:70px;}
@@ -79,4 +92,8 @@ border-radius:30px;box-shadow:0px 4px 11px rgba(0, 0, 0, 0.25);}
 @media screen and (min-width:901px) and (max-width:1000px){
     .gd-nv-if p{font-size:35px;line-height:50px;}
     .hc-ks-ht p{font-size:18px;}
+    .donation-mc-lk figure{width:90%;}
+    .download-app-mv-cx figure{width:90%;}
+    .download-app-mv-cx figure figcaption button{margin-top:30px;}
+    .donation-mc-lk figure figcaption button{margin-top:30px;}
 }

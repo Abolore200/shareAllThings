@@ -15,6 +15,13 @@
     .shareAllThings-img{padding-left:5px;}
     .bf-hd-sm-fg{flex-direction:column;}
     .dg-hd-vb,.nc-hs-nc{width:100%;}
+    .do-mc-kg{flex-direction:column;}
+    .donation-mc-lk{margin-bottom:20px;width:100%;}
+    .donation-mc-lk figure{width:90%;padding:60px 55px;}
+    .download-app-mv-cx{margin-bottom:20px;width:100%;}
+    .download-app-mv-cx figure{width:90%;padding:60px 55px;}
+    .donation-mc-lk figure figcaption p{padding-top:40px;}
+    .download-app-mv-cx figure figcaption p{padding-top:40px;}
 }
 @media screen and (min-width:401px) and (max-width:520px){
     .yellowAbsolute{left:-285px;top:-350px;}
