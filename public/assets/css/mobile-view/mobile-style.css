@@ -16,10 +16,10 @@
     .bf-hd-sm-fg{flex-direction:column;}
     .dg-hd-vb,.nc-hs-nc{width:100%;}
     .do-mc-kg{flex-direction:column;}
-    .donation-mc-lk{margin-bottom:20px;width:100%;}
-    .donation-mc-lk figure{width:90%;padding:60px 55px;}
-    .download-app-mv-cx{margin-bottom:20px;width:100%;}
-    .download-app-mv-cx figure{width:90%;padding:60px 55px;}
+    .donation-mc-lk{margin-bottom:50px;width:100%;}
+    .donation-mc-lk figure{width:90%;padding:40px 35px;}
+    .download-app-mv-cx{margin-bottom:50px;width:100%;}
+    .download-app-mv-cx figure{width:90%;padding:40px 35px;}
     .donation-mc-lk figure figcaption p{padding-top:40px;}
     .download-app-mv-cx figure figcaption p{padding-top:40px;}
 }
@@ -31,6 +31,15 @@
     .registerEmail input[type="email"]{width:90%;}
     .nc-hs-nc{margin-top:10px;}
     .dg-hd-vb{padding:0 8px;}
+    .download-app-mv-cx figure{width:90%;padding:45px 20px;}
+    .donation-mc-lk figure{width:90%;padding:45px 20px;}
+    .donation-mc-lk figure figcaption p{padding-top:10px;font-size:18px;}
+    .download-app-mv-cx figure figcaption p{padding-top:10px;font-size:18px;}
+    .donation-mc-lk figure figcaption button{margin-top:20px;padding:13px 0;}
+    .download-app-mv-cx figure figcaption button{margin-top:20px;padding:13px 0;}
+    .dh-mv-lg p{font-size:24px;}
+    .dn-mf-kd{margin-top:20px;}
+
 }
 @media screen and (max-width:400px){
     .yellowAbsolute{left:-300px;top:-304px;}
@@ -47,4 +56,14 @@
     .icon-joion-us-hd-jd i{font-size:19px;}
     .nc-hs-nc{margin-top:10px;}
     .bc-jd-img img{width:90%;}
+    .download-app-mv-cx figure{width:90%;padding:25px 15px;}
+    .donation-mc-lk figure{width:90%;padding:25px 15px;}
+    .donation-mc-lk figure figcaption p{padding-top:10px;font-size:18px;}
+    .download-app-mv-cx figure figcaption p{padding-top:10px;font-size:18px;}
+    .donation-mc-lk figure figcaption button{margin-top:20px;padding:13px 0;}
+    .download-app-mv-cx figure figcaption button{margin-top:20px;padding:13px 0;}
+    .download-app-mv-cx figure figcaption button a{font-size:18px;}
+    .donation-mc-lk figure figcaption button a{font-size:18px;}
+    .dh-mv-lg p{font-size:20px;}
+    .dn-mf-kd{margin-top:20px;}
 }
