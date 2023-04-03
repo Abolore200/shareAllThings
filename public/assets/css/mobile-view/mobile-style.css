@@ -3,22 +3,41 @@
     .download-button .shareAllThings-menubar{margin-left:30px;}
     .download-button .shareAllThings-menubar button{display:block;border:none;background-color:transparent;}
     .sub-menu-fh-ds ul{flex-direction:column;position:fixed;background-color:#263238;height:100vh;top:0;bottom:0;}
-    .sub-menu-fh-ds ul{width:100%;left:-999px;justify-content:start;padding-top:100px;z-index:-1;padding-left:20px;}
+    .sub-menu-fh-ds ul{width:50%;left:-999px;justify-content:start;padding-top:10px;z-index:-1;padding-left:20px;}
     .sub-menu-fh-ds{justify-content:center;padding-right:30px;padding-left:50px;}
     .download-button{display:flex;align-items:center;justify-content:space-between;width:85%;}
     .download-button .shareAllThings-menubar i{font-size:30px;color:#fff;}
     .hf-bc-jd{width:100%;margin:0;}
     .sub-menu-fh-ds ul li{margin:10px 0;}
-    .sub-menu-fh-ds ul{transition:all .5s ease-in;}
+    .sub-menu-fh-ds ul{transition:all .5s ease-in;z-index:1;top:87px;}
     .sub-menu-fh-ds ul.showNavMenu{left:0;transition:all .5s ease-out;}
-    .yellowAbsolute{left:-250px;top:-300px;}
+    .yellowAbsolute{left:-250px;top:-300px;border-bottom-right-radius:20px;}
     .shareAllThings-img{padding-left:5px;}
+    .bf-hd-sm-fg{flex-direction:column;}
+    .dg-hd-vb,.nc-hs-nc{width:100%;}
 }
 @media screen and (min-width:401px) and (max-width:520px){
     .yellowAbsolute{left:-285px;top:-350px;}
+    .gd-nv-if p{font-size:35px;line-height:45px;}
+    .icon-joion-us-hd-jd{border:1px solid #263238;}
+    .hc-ks-ht p{font-size:18px;}
+    .registerEmail input[type="email"]{width:90%;}
+    .nc-hs-nc{margin-top:10px;}
+    .dg-hd-vb{padding:0 8px;}
 }
 @media screen and (max-width:400px){
-    .yellowAbsolute{left:-300px;top:-550px;}
+    .yellowAbsolute{left:-300px;top:-304px;}
     .sub-menu-fh-ds{padding-left:0;padding-right:15px;}
     .download-button .shareAllThings-menubar{margin:0 15px;}
+    .gd-nv-if p{font-size:38px;line-height:45px;}
+    .dg-hd-vb{padding:0 5px;}
+    .hc-ks-ht p br{display:none;}
+    .registerEmail input[type="email"]{width:100%;}
+    .hc-ks-ht p{font-size:16px;}
+    .yellowAbsolute{border-bottom-right-radius:20px;}
+    .icon-joion-us-hd-jd{border:1px solid #263238;padding:10px 14px;}
+    .icon-joion-us-hd-jd p{font-size:15px;line-height:0;}
+    .icon-joion-us-hd-jd i{font-size:19px;}
+    .nc-hs-nc{margin-top:10px;}
+    .bc-jd-img img{width:90%;}
 }
