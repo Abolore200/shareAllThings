@@ -26,7 +26,18 @@
     .nc-ik-img{width:100%;}
     .nc-hd-lk{width:90%;margin:30px 0 0 auto;padding-left:50px;}
     .nc-nv-mb{padding-right:30px;}
+    .bc-lg-it ul{flex-wrap:wrap;}
+    .bc-lg-it ul li{width:47%;margin:0 auto 20px auto;}
+    .bc-lg-it ul li:first-child{margin-left:auto;}
+    .bc-lg-it ul li:last-child{margin-right:auto;}
+    .bc-lg-it ul li figure figcaption p:first-child{font-size:20px;}
+    /* .bc-lg-it ul li figure figcaption span{font-size:14px;} */
+    .hd-kc-uf button{padding:13px 0;}
+    .hd-kc-uf button a{font-size:16px;}
 }
+
+
+
 @media screen and (min-width:401px) and (max-width:520px){
     .yellowAbsolute{left:-285px;top:-350px;}
     .gd-nv-if p{font-size:35px;line-height:45px;}
@@ -52,6 +63,20 @@
     .donation-mc-lk figure figcaption button a{font-size:20px;}
     .download-app-mv-cx figure figcaption button a{font-size:20px;}
     .vn-nv-kf-mv{margin-top:50px;}
+    .bc-lg-it ul li figure figcaption{padding:0px 10px 20px;}
+    .hd-kc-uf{margin-top:10px;}
+    .bc-lg-it ul li figure figcaption p:first-child{font-size:17px;}
+    .bc-lg-it ul li figure figcaption p:nth-child(2){font-size:15px;}
+    .hd-kc-uf button{padding:13px 0;}
+    .hd-kc-uf button a{font-size:14px;}
+    .bc-lg-it ul li:nth-child(3) figure figcaption p:nth-child(2){font-size:15px;}
+}
+@media screen and (min-width:436px) and (max-width:442px){
+    .bc-lg-it ul li:nth-child(4) figure figcaption p:nth-child(2){font-size:16px;}
+}
+@media screen and (min-width:376px) and (max-width:400px){
+    .bc-lg-it ul li:nth-child(3) figure figcaption p:nth-child(2){font-size:11px;}
+    .bc-lg-it ul li:nth-child(4) figure figcaption p:nth-child(2){font-size:10.5px;}
 }
 @media screen and (max-width:400px){
     .yellowAbsolute{left:-300px;top:-304px;}
@@ -76,9 +101,8 @@
     .download-app-mv-cx figure figcaption button{margin-top:20px;padding:13px 0;}
     .download-app-mv-cx figure figcaption button a{font-size:18px;}
     .donation-mc-lk figure figcaption button a{font-size:18px;}
-    .dh-mv-lg p{font-size:20px;}
     .dn-mf-kd{margin-top:20px;}
-    .dh-mv-lg p{font-size:24px;}
+    .dh-mv-lg p{font-size:23px;}
     .dn-mf-kd{margin-top:20px;}
     .nc-nv-mb p{font-size:17px;line-height:27px;}
     .nv-ud-jd a{padding:15px 30px;font-size:16px;}
@@ -86,4 +110,21 @@
     .nc-hd-lk{height:600px;padding-left:25px;}
     .img-id-cj img{width:90%;}
     .vn-nv-kf-mv{margin-top:50px;}
+    .bc-lg-it ul li figure figcaption{padding:0px 8px 15px;}
+    .bc-lg-it ul li figure figcaption p:first-child{font-size:18px;line-height:20px;}
+    .bc-lg-it ul li:nth-child(3) figure figcaption p:first-child{font-size:17px;}
+    /* .bc-lg-it ul li:nth-child(3) figure figcaption p:nth-child(2){font-size:14px;} */
+    .bc-lg-it ul li:nth-child(2) figure figcaption p:nth-child(2){font-size:12px;}
+    .hd-kc-uf{margin-top:10px;}
+    .hd-kc-uf button{padding:5px 0;}
+    .bc-lg-it ul li figure figcaption p:nth-child(2){font-size:13px;}
+    .hd-kc-uf button a{font-size:14px;}
+    .bc-jd-yr{padding-top:25px;}
+    .nc-lg-pd p{font-size:23px;}
+}
+@media screen and (max-width:352px){
+    .bc-lg-it ul li:nth-child(1) figure figcaption p:nth-child(2){font-size:12px;}
+}
+@media screen and (max-width:342px){
+    .bc-lg-it ul li:nth-child(3) figure figcaption p:first-child{font-size:16px;}
 }

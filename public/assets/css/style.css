@@ -81,17 +81,17 @@ border-radius:30px;box-shadow:0px 4px 11px rgba(0, 0, 0, 0.25);}
 section:nth-child(4){margin-top:50px;background-color:rgba(255, 199, 39,.5);}
 .bc-jd-yr{width:95%;margin:0 auto;padding:50px 0;}
 .nc-lg-pd p{font-weight:600;font-size:26px;}
-.bc-lg-it{width:100%;}
+.bc-lg-it{width:100%;margin-top:40px;}
 .bc-lg-it ul{display:flex;justify-content:space-between;align-items:center;}
-.bc-lg-it ul li{width:25%;margin:0 15px;background-color:#263238;border-radius:20px 20px 15px 15px;}
+.bc-lg-it ul li{width:25%;margin:0 15px;background-color:#263238;border-radius:15px;list-style:none;box-shadow:0px 4px 11px rgba(0, 0, 0, 0.25);}
 .bc-lg-it ul li:first-child{margin-left:0px;}
 .bc-lg-it ul li:last-child{margin-right:0px;}
 .bc-lg-it ul li figure{width:100%;border-radius:15px;}
 .bc-lg-it ul li figure figcaption{padding:10px 15px 25px;width:100%;}
 .bc-lg-it ul li figure .nc-ik-img-one{width:100%;border-radius:15px;max-height:199px;}
 .bc-lg-it ul li figure .nc-ik-img-one img{width:100%;border-radius:15px;}
-.bc-lg-it ul li figure figcaption p{font-weight:700;font-size:23px;color:#FFC727;}
-.bc-lg-it ul li figure figcaption span{font-family:var(--inter);font-weight:400;color:#fff;}
+.bc-lg-it ul li figure figcaption p:first-child{font-weight:700;font-size:23px;color:#FFC727;}
+.bc-lg-it ul li figure figcaption p:nth-child(2){font-family:var(--inter);font-weight:400;color:#fff;}
 .hd-kc-uf{margin-top:30px;}
 .hd-kc-uf button{width:100%;padding:15px 0;border:1px solid #FFC727;background-color:#FFC727;border-radius:10px;}
 .hd-kc-uf button a{font-weight:600;font-size:18px;font-family:var(--poppins);}
