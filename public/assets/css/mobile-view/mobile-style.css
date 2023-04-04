@@ -31,18 +31,16 @@
     .bc-lg-it ul li:first-child{margin-left:auto;}
     .bc-lg-it ul li:last-child{margin-right:auto;}
     .bc-lg-it ul li figure figcaption p:first-child{font-size:20px;}
-    /* .bc-lg-it ul li figure figcaption span{font-size:14px;} */
     .hd-kc-uf button{padding:13px 0;}
     .hd-kc-uf button a{font-size:16px;}
-
     .nc-fd-hf ul{flex-wrap:wrap;}
     .nc-fd-hf ul li{width:47%;margin:0 auto 20px auto;}
     .nc-fd-hf ul li:first-child{margin-left:auto;}
     .nc-fd-hf ul li:last-child{margin-right:auto;}
     .nc-fd-hf ul li figure figcaption p:first-child{font-size:20px;}
-    /* .bc-lg-it ul li figure figcaption span{font-size:14px;} */
     .hd-ur-nc button{padding:13px 0;}
     .hd-ur-nc button a{font-size:16px;}
+    .nc-fd-hf{width:100%;margin-top:0px;}
 }
 
 
@@ -79,7 +77,6 @@
     .hd-kc-uf button{padding:13px 0;}
     .hd-kc-uf button a{font-size:14px;}
     .bc-lg-it ul li:nth-child(3) figure figcaption p:nth-child(2){font-size:15px;}
-
     .nc-fd-hf ul li figure figcaption{padding:0px 10px 20px;}
     .hd-ur-nc{margin-top:10px;}
     .nc-fd-hf ul li figure figcaption p:first-child{font-size:17px;}
@@ -134,7 +131,6 @@
     .bc-lg-it ul li figure figcaption{padding:0px 8px 15px;}
     .bc-lg-it ul li figure figcaption p:first-child{font-size:18px;line-height:20px;}
     .bc-lg-it ul li:nth-child(3) figure figcaption p:first-child{font-size:17px;}
-    /* .bc-lg-it ul li:nth-child(3) figure figcaption p:nth-child(2){font-size:14px;} */
     .bc-lg-it ul li:nth-child(2) figure figcaption p:nth-child(2){font-size:12px;}
     .hd-kc-uf{margin-top:10px;}
     .hd-kc-uf button{padding:5px 0;}
@@ -142,11 +138,9 @@
     .hd-kc-uf button a{font-size:14px;}
     .bc-jd-yr{padding-top:25px;}
     .nc-lg-pd p{font-size:23px;}
-
     .nc-fd-hf ul li figure figcaption{padding:0px 8px 15px;}
     .nc-fd-hf ul li figure figcaption p:first-child{font-size:18px;line-height:20px;}
     .nc-fd-hf ul li:nth-child(3) figure figcaption p:first-child{font-size:17px;}
-    /* .nc-fd-hf ul li:nth-child(3) figure figcaption p:nth-child(2){font-size:14px;} */
     .nc-fd-hf ul li:nth-child(2) figure figcaption p:nth-child(2){font-size:13px;}
     .hd-ur-nc{margin-top:10px;}
     .hd-ur-nc button{padding:5px 0;}
@@ -160,4 +154,10 @@
 @media screen and (max-width:342px){
     .bc-lg-it ul li:nth-child(3) figure figcaption p:first-child{font-size:16px;}
     .nc-fd-hf ul li:nth-child(3) figure figcaption p:first-child{font-size:16px;}
+}
+@media screen and (min-width:463px) and (max-width:499px){
+    .nc-fd-hf ul li:nth-child(2) figure figcaption p:nth-child(2){font-size:13px;}
+}
+@media screen and (min-width:443px) and (max-width:470px){
+    .bc-lg-it ul li:nth-child(3) figure figcaption p:nth-child(2){font-size:14px;}
 }
