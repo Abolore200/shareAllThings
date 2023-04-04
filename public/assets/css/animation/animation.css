@@ -7,3 +7,7 @@
 .bc-lg-it ul li figure .nc-ik-img-one{overflow:hidden;}
 .bc-lg-it ul li figure .nc-ik-img-one img{transition:all .5s;}
 .bc-lg-it ul li figure:hover .nc-ik-img-one img{transform:scale(1.2);}
+
+.nc-fd-hf ul li figure .mh-ds-img-one{overflow:hidden;}
+.nc-fd-hf ul li figure .mh-ds-img-one img{transition:all .5s;}
+.nc-fd-hf ul li figure:hover .mh-ds-img-one img{transform:scale(1.2);}

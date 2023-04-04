@@ -34,6 +34,15 @@
     /* .bc-lg-it ul li figure figcaption span{font-size:14px;} */
     .hd-kc-uf button{padding:13px 0;}
     .hd-kc-uf button a{font-size:16px;}
+
+    .nc-fd-hf ul{flex-wrap:wrap;}
+    .nc-fd-hf ul li{width:47%;margin:0 auto 20px auto;}
+    .nc-fd-hf ul li:first-child{margin-left:auto;}
+    .nc-fd-hf ul li:last-child{margin-right:auto;}
+    .nc-fd-hf ul li figure figcaption p:first-child{font-size:20px;}
+    /* .bc-lg-it ul li figure figcaption span{font-size:14px;} */
+    .hd-ur-nc button{padding:13px 0;}
+    .hd-ur-nc button a{font-size:16px;}
 }
 
 
@@ -70,13 +79,25 @@
     .hd-kc-uf button{padding:13px 0;}
     .hd-kc-uf button a{font-size:14px;}
     .bc-lg-it ul li:nth-child(3) figure figcaption p:nth-child(2){font-size:15px;}
+
+    .nc-fd-hf ul li figure figcaption{padding:0px 10px 20px;}
+    .hd-ur-nc{margin-top:10px;}
+    .nc-fd-hf ul li figure figcaption p:first-child{font-size:17px;}
+    .nc-fd-hf ul li figure figcaption p:nth-child(2){font-size:15px;}
+    .hd-ur-nc button{padding:13px 0;}
+    .hd-ur-nc button a{font-size:14px;}
+    .nc-fd-hf ul li:nth-child(3) figure figcaption p:nth-child(2){font-size:15px;}
 }
 @media screen and (min-width:436px) and (max-width:442px){
     .bc-lg-it ul li:nth-child(4) figure figcaption p:nth-child(2){font-size:16px;}
+    .nc-fd-hf ul li:nth-child(4) figure figcaption p:nth-child(2){font-size:16px;}
 }
 @media screen and (min-width:376px) and (max-width:400px){
     .bc-lg-it ul li:nth-child(3) figure figcaption p:nth-child(2){font-size:11px;}
     .bc-lg-it ul li:nth-child(4) figure figcaption p:nth-child(2){font-size:10.5px;}
+
+    .nc-fd-hf ul li:nth-child(3) figure figcaption p:nth-child(2){font-size:11px;}
+    .nc-fd-hf ul li:nth-child(4) figure figcaption p:nth-child(2){font-size:10.5px;}
 }
 @media screen and (max-width:400px){
     .yellowAbsolute{left:-300px;top:-304px;}
@@ -121,10 +142,22 @@
     .hd-kc-uf button a{font-size:14px;}
     .bc-jd-yr{padding-top:25px;}
     .nc-lg-pd p{font-size:23px;}
+
+    .nc-fd-hf ul li figure figcaption{padding:0px 8px 15px;}
+    .nc-fd-hf ul li figure figcaption p:first-child{font-size:18px;line-height:20px;}
+    .nc-fd-hf ul li:nth-child(3) figure figcaption p:first-child{font-size:17px;}
+    /* .nc-fd-hf ul li:nth-child(3) figure figcaption p:nth-child(2){font-size:14px;} */
+    .nc-fd-hf ul li:nth-child(2) figure figcaption p:nth-child(2){font-size:13px;}
+    .hd-ur-nc{margin-top:10px;}
+    .hd-ur-nc button{padding:5px 0;}
+    .nc-fd-hf ul li figure figcaption p:nth-child(2){font-size:13px;}
+    .hd-ur-nc button a{font-size:14px;}
 }
 @media screen and (max-width:352px){
     .bc-lg-it ul li:nth-child(1) figure figcaption p:nth-child(2){font-size:12px;}
+    .nc-fd-hf ul li:nth-child(1) figure figcaption p:nth-child(2){font-size:12px;}
 }
 @media screen and (max-width:342px){
     .bc-lg-it ul li:nth-child(3) figure figcaption p:first-child{font-size:16px;}
+    .nc-fd-hf ul li:nth-child(3) figure figcaption p:first-child{font-size:16px;}
 }
