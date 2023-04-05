@@ -11,7 +11,7 @@
     .sub-menu-fh-ds ul li{margin:10px 0;}
     .sub-menu-fh-ds ul{transition:all .5s ease-in;z-index:1;top:87px;}
     .sub-menu-fh-ds ul.showNavMenu{left:0;transition:all .5s ease-out;}
-    .yellowAbsolute{left:-250px;top:-300px;border-bottom-right-radius:20px;}
+    .yellowAbsolute{left:-260px;top:-300px;border-bottom-right-radius:20px;}
     .shareAllThings-img{padding-left:5px;}
     .bf-hd-sm-fg{flex-direction:column;}
     .dg-hd-vb,.nc-hs-nc{width:100%;}
@@ -50,9 +50,14 @@
     .nc-lg-yd{flex-direction:column;}
     .cb-js-nc{width:100%;}
     .cb-mx-dr{width:100%;}
-    footer section:nth-child(1){margin-top:100px;}
+    footer section:nth-child(1){margin-top:100px;height:1200px;}
     .bc-lj-st{padding:0 20px;}
     .nc-input-email input[type="email"]{width:80%;}
+    .bc-lk-pd{flex-direction:column;}
+    .bc-ud-xs ul{justify-content:center;}
+    .hl-pl-uf{margin-bottom:15px;}
+    .vx-lk-fd ul li:first-child{margin-left:0;}
+    .vx-lk-fd ul li a i{font-size:30px;}
 }
 
 
@@ -97,6 +102,7 @@
     .hd-ur-nc button a{font-size:14px;}
     .nc-fd-hf ul li:nth-child(3) figure figcaption p:nth-child(2){font-size:15px;}
     .nc-input-email input[type="email"]{width:100%;}
+    .bc-ud-xs ul li{margin:0 10px;}
 }
 @media screen and (min-width:436px) and (max-width:442px){
     .bc-lg-it ul li:nth-child(4) figure figcaption p:nth-child(2){font-size:16px;}
@@ -169,10 +175,18 @@
     .bc-un-kg button{padding:20px 45px;}
     .bc-un-kg button a{font-size:15px;}
     main section:nth-child(5){margin-top:50px;}
+    footer section:nth-child(1){height:1000px;}
+    .bc-ud-xs ul{flex-direction:column;}
+    .bc-ud-xs ul li{margin:5px 0;}
+    .hl-pl-uf p{text-align:center;}
 }
 @media screen and (max-width:352px){
     .bc-lg-it ul li:nth-child(1) figure figcaption p:nth-child(2){font-size:12px;}
     .nc-fd-hf ul li:nth-child(1) figure figcaption p:nth-child(2){font-size:12px;}
+    .vx-lk-fd ul li{margin:0 4px;}
+    .vx-lk-fd ul li a i{font-size:23px;}
+    .download-button .download-hkd-sn button{padding:10px 13px;}
+    .download-button .shareAllThings-menubar i{font-size:25px;}
 }
 @media screen and (max-width:342px){
     .bc-lg-it ul li:nth-child(3) figure figcaption p:first-child{font-size:16px;}
