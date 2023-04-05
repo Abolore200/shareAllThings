@@ -50,7 +50,9 @@
     .nc-lg-yd{flex-direction:column;}
     .cb-js-nc{width:100%;}
     .cb-mx-dr{width:100%;}
-    footer section:nth-child(1){margin-top:30px;}
+    footer section:nth-child(1){margin-top:100px;}
+    .bc-lj-st{padding:0 20px;}
+    .nc-input-email input[type="email"]{width:80%;}
 }
 
 
@@ -94,15 +96,17 @@
     .hd-ur-nc button{padding:13px 0;}
     .hd-ur-nc button a{font-size:14px;}
     .nc-fd-hf ul li:nth-child(3) figure figcaption p:nth-child(2){font-size:15px;}
+    .nc-input-email input[type="email"]{width:100%;}
 }
 @media screen and (min-width:436px) and (max-width:442px){
     .bc-lg-it ul li:nth-child(4) figure figcaption p:nth-child(2){font-size:16px;}
     .nc-fd-hf ul li:nth-child(4) figure figcaption p:nth-child(2){font-size:16px;}
+    .nc-input-email input[type="email"]{width:100%;}
 }
 @media screen and (min-width:376px) and (max-width:400px){
     .bc-lg-it ul li:nth-child(3) figure figcaption p:nth-child(2){font-size:11px;}
     .bc-lg-it ul li:nth-child(4) figure figcaption p:nth-child(2){font-size:10.5px;}
-
+    .nc-input-email input[type="email"]{width:100%;}
     .nc-fd-hf ul li:nth-child(3) figure figcaption p:nth-child(2){font-size:11px;}
     .nc-fd-hf ul li:nth-child(4) figure figcaption p:nth-child(2){font-size:10.5px;}
 }
@@ -160,6 +164,11 @@
     .nc-input-email input[type="email"]{width:100%;}
     .hf-lv-ud p:first-child br{display:none;}
     .nc-lg-yd{height:500px;}
+    .hf-lv-ud p:first-child{font-size:25px;}
+    .submit-newsletter input[type="submit"]{font-size:14px;}
+    .bc-un-kg button{padding:20px 45px;}
+    .bc-un-kg button a{font-size:15px;}
+    main section:nth-child(5){margin-top:50px;}
 }
 @media screen and (max-width:352px){
     .bc-lg-it ul li:nth-child(1) figure figcaption p:nth-child(2){font-size:12px;}
@@ -171,7 +180,9 @@
 }
 @media screen and (min-width:463px) and (max-width:499px){
     .nc-fd-hf ul li:nth-child(2) figure figcaption p:nth-child(2){font-size:13px;}
+    .nc-input-email input[type="email"]{width:100%;}
 }
 @media screen and (min-width:443px) and (max-width:470px){
     .bc-lg-it ul li:nth-child(3) figure figcaption p:nth-child(2){font-size:14px;}
+    .nc-input-email input[type="email"]{width:100%;}
 }
