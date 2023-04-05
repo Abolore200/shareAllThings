@@ -41,6 +41,12 @@
     .hd-ur-nc button{padding:13px 0;}
     .hd-ur-nc button a{font-size:16px;}
     .nc-fd-hf{width:100%;margin-top:0px;}
+    .cn-kf-yf{flex-direction:column-reverse;}
+    .nc-mn-vs{width:100%;}
+    .nc-kf-lk{width:90%;margin-right:auto;height:700px;}
+    section:nth-child(5){margin-top:50px;}
+    .bc-un-kg{margin-top:40px;}
+    .mg-bc-lu img{width:90%;}
 }
 
 
