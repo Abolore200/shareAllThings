@@ -5,9 +5,8 @@ button,input,select,option{-webkit-box-sizing:border-box;-moz-box-sizing:border-
 .download-app-mv-cx figure .animate-two-mc-hd img{-webkit-transition:all .5s;-moz-transition:all .5s;-o-transition:all .5s;transition:all .5s;}
 .download-app-mv-cx figure:hover .animate-two-mc-hd img{-webkit-transform:scale(1.2);-ms-transform:scale(1.2);-moz-transform:scale(1.2);-o-transform:scale(1.2);transform:scale(1.2);}
 .nv-ud-jd a::after{-webkit-transition:all .3s;-moz-transition:all .3s;-o-transition:all .3s;transition:all .3s;}
-
 .bc-lg-it ul li figure .nc-ik-img-one img{-webkit-transition:all .5s;-moz-transition:all .5s;-o-transition:all .5s;transition:all .5s;}
 .bc-lg-it ul li figure:hover .nc-ik-img-one img{-webkit-transform:scale(1.2);-ms-transform:scale(1.2);-moz-transform:scale(1.2);-o-transform:scale(1.2);transform:scale(1.2);}
-
 .nc-fd-hf ul li figure .mh-ds-img-one img{-webkit-transition:all .5s;-moz-transition:all .5s;-o-transition:all .5s;transition:all .5s;}
 .nc-fd-hf ul li figure:hover .mh-ds-img-one img{-webkit-transform:scale(1.2);-ms-transform:scale(1.2);-moz-transform:scale(1.2);-o-transform:scale(1.2);transform:scale(1.2);}
+.vx-lk-fd ul li a i{-webkit-transition:all .5s;-moz-transition:all .5s;-o-transition:all .5s;transition:all .5s;}

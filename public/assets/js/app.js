@@ -10,3 +10,6 @@ menuBtn.addEventListener('click', () => {
         document.querySelectorAll('input').forEach(input => {input.disabled = false})
     }
 })
+//add updated year
+const year = new Date().getFullYear()
+document.querySelector('.hl-pl-uf p span').innerHTML = year
