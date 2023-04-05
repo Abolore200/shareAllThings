@@ -180,6 +180,7 @@ font-family:var(--inter);color:#263238;}
 .vx-lk-fd ul li:last-child{font-weight:600;}
 footer section:nth-child(2){margin-bottom:15px;}
 .errorMsg p{color:red;padding-top:2px;font-size:14px;}
+.hl-pl-uf p br{display:none;}
 @media screen and (min-width:769px) and (max-width:900px) {
     .yellowAbsolute{left:-240px;top:-315px;}
     .download-button{margin-left:20px;}
