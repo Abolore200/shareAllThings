@@ -1,3 +1,4 @@
+//onclick, display the menu bar
 const menuBtn = document.querySelector('.download-button .shareAllThings-menubar button')
 menuBtn.addEventListener('click', () => {
     const navMenu = document.querySelector('.sub-menu-fh-ds ul')
