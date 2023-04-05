@@ -4,7 +4,8 @@
     --inter:'Inter';
 }
 *{padding:0;margin:0;outline:none;box-sizing:border-box;}
-body{width:100%;font-family:'Poppins', Verdana, Geneva, Tahoma, sans-serif;scroll-behavior:smooth;position:relative;}
+body{scroll-behavior:smooth;position:relative;}
+body{width:100%;font-family:'Poppins', Verdana, Geneva, Tahoma, sans-serif;}
 html{scroll-behavior:smooth;width:100%;}
 a{text-decoration:none;color:#fff;}
 .yellowAbsolute{background-color:rgba(255,199,39,.5);height:1000px;width:100%;border-radius:50px 50px 170px 50px;
@@ -139,10 +140,25 @@ main section:nth-child(5){margin-top:100px;}
 .nj-lo-nc:first-child .nv-kf-ki img{width:80%;}
 .nj-lo-nc:first-child{margin-left:0;}
 .nj-lo-nc:last-child{margin-right:0;}
-footer section:nth-child(1){width:100%;margin-top:15px;}
-
-
-
+footer section:nth-child(1){width:100%;margin-top:15px;margin-bottom:100px;}
+.nc-lg-yd{height:600px;display:flex;}
+.cb-js-nc{width:45%;height:inherit;background-color:rgba(255, 199, 39,.5);}
+.cb-mx-dr{width:55%;height:inherit;background-color:#263238;}
+.bc-kf-lv{height:inherit;display:flex;justify-content:center;align-items:center;}
+.bc-kf-lv img{width:60%;}
+.bc-lj-st{display:flex;flex-direction:column;padding-left:80px;height:inherit;justify-content:center;}
+.hf-lv-ud p{color:#fff;}
+.hf-lv-ud p:first-child{font-weight:700;font-size:35px;}
+.hf-lv-ud p:last-child{font-family:var(--inter);margin-top:10px;}
+.subscribe-for-newsletter{margin-top:20px;}
+.nc-input-email{display:flex;align-items:center;margin-top:20px;position:relative;}
+.nc-input-email input[type="email"]{position:relative;padding:14px 10px 14px 30px;border:1px solid #fff;width:50%;
+font-family:var(--inter);color:#263238;}
+.nc-input-email i{position:absolute;padding-left:10px;color:#263238;}
+.submit-newsletter{margin-top:20px;}
+.submit-newsletter input[type="submit"]{padding:14px 35px;text-transform:uppercase;font-family:var(--inter);font-weight:700;color:#263238;}
+.submit-newsletter input[type="submit"]{background-color:#FFC727;border:1px solid #FFC727;font-size:15px;cursor:pointer;}
+.nc-input-email input[type="email"]::placeholder{color:#263238;}
 
 
 

@@ -47,6 +47,10 @@
     section:nth-child(5){margin-top:50px;}
     .bc-un-kg{margin-top:40px;}
     .mg-bc-lu img{width:90%;}
+    .nc-lg-yd{flex-direction:column;}
+    .cb-js-nc{width:100%;}
+    .cb-mx-dr{width:100%;}
+    footer section:nth-child(1){margin-top:30px;}
 }
 
 
@@ -152,6 +156,10 @@
     .hd-ur-nc button{padding:5px 0;}
     .nc-fd-hf ul li figure figcaption p:nth-child(2){font-size:13px;}
     .hd-ur-nc button a{font-size:14px;}
+    .bc-lj-st{padding:0 20px;}
+    .nc-input-email input[type="email"]{width:100%;}
+    .hf-lv-ud p:first-child br{display:none;}
+    .nc-lg-yd{height:500px;}
 }
 @media screen and (max-width:352px){
     .bc-lg-it ul li:nth-child(1) figure figcaption p:nth-child(2){font-size:12px;}
