@@ -9,7 +9,7 @@ html{scroll-behavior:smooth;width:100%;}
 a{text-decoration:none;color:#fff;}
 .yellowAbsolute{background-color:rgba(255,199,39,.5);height:1000px;width:100%;border-radius:50px 50px 170px 50px;
 position:absolute;transform:rotate(-40deg);top:-375px;right:0;left:-240px;bottom:0;z-index:-999;}
-main{width:100%;margin-bottom:200px;}
+main{width:100%;margin-bottom:50px;}
 .gd-jc-jd{background-color:#263238;width:100%;}
 .hf-bc-jd{width:95%;margin:0 auto;display:flex;align-items:center;justify-content:space-between;padding:10px 0;}
 .shareAllThings-img a{display:flex;}
@@ -78,7 +78,7 @@ border-radius:30px;box-shadow:0px 4px 11px rgba(0, 0, 0, 0.25);}
 .nv-ud-jd a::after{content:"";transition:all .3s;display:inline;position:absolute;background:#FFC727;width:0%;height:100%;top:0;left:0;z-index:-1;}
 .nv-ud-jd a:hover::after{width:100%;}
 .nv-ud-jd a:hover{color:#263238;}
-section:nth-child(4){margin-top:50px;background-color:rgba(255, 199, 39,.5);}
+main section:nth-child(4){margin-top:50px;background-color:rgba(255, 199, 39,.5);}
 .bc-jd-yr{width:95%;margin:0 auto;padding:50px 0 80px;}
 .nc-lg-pd p{font-weight:600;font-size:26px;}
 .bc-lg-it{width:100%;margin-top:40px;}
@@ -112,7 +112,7 @@ section:nth-child(4){margin-top:50px;background-color:rgba(255, 199, 39,.5);}
 .hd-ur-nc{margin-top:30px;}
 .hd-ur-nc button{width:100%;padding:15px 0;border:1px solid #FFC727;background-color:#FFC727;border-radius:10px;}
 .hd-ur-nc button a{font-weight:600;font-size:18px;font-family:var(--poppins);}
-section:nth-child(5){margin-top:100px;}
+main section:nth-child(5){margin-top:100px;}
 .cn-kf-yf{width:100%;display:flex;align-items:center;}
 .nc-kf-lk{background-color:rgba(255, 199, 39, .5);width:55%;height:650px;border-radius:0 50px 50px 0;}
 .nc-kf-lk{display:flex;align-items:center;justify-content:center;padding:0 20px;}
@@ -139,6 +139,7 @@ section:nth-child(5){margin-top:100px;}
 .nj-lo-nc:first-child .nv-kf-ki img{width:80%;}
 .nj-lo-nc:first-child{margin-left:0;}
 .nj-lo-nc:last-child{margin-right:0;}
+footer section:nth-child(1){width:100%;margin-top:15px;}
 
 
 
