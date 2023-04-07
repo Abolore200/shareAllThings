@@ -58,7 +58,6 @@
     .hl-pl-uf{margin-bottom:15px;}
     .vx-lk-fd ul li:first-child{margin-left:0;}
     .vx-lk-fd ul li a i{font-size:30px;}
-    .hl-pl-uf p br{display:block;}
 }
 @media screen and (min-width:401px) and (max-width:520px){
     .yellowAbsolute{left:-285px;top:-350px;}
